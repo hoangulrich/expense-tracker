@@ -1,6 +1,8 @@
 # expense-tracker <br />
 
-server: npm i express dotenv mongoose colors morgan <br />
+MERN app for tracking income and expense
+
+SERVER: npm i express dotenv mongoose colors morgan <br />
 npm i -D nodemon concurrently
 
-client: npm i axios
+CLIENT: npm i axios
